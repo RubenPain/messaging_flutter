@@ -14,7 +14,6 @@ dependencies:
   messaging:
     git:
       url: git@github.com:RubenPain/messaging.git
-      ref: fix/unsubscribe
 
 dev_dependencies:
   flutter_test:
