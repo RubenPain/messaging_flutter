@@ -11,7 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  messaging: ^0.2.1
+  messaging:
+    git:
+      url: git@github.com:RubenPain/messaging.git
+      ref: fix/unsubscribe
 
 dev_dependencies:
   flutter_test:
